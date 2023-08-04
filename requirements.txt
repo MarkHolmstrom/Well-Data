@@ -1,0 +1,6 @@
+PyQt5~=5.15.7
+pandas~=1.5.2
+openpyxl~=3.0.10
+numpy~=1.24.1
+matplotlib~=3.6.2
+lasio~=0.30
